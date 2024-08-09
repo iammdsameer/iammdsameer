@@ -22,7 +22,8 @@ Want to be nice?
 - 📫 &nbsp; How to reach me: hi@mdsameer.com, sameer@asparksys.com.
 
 ### Achievements
-<a href="https://www.credly.com/badges/4e32b35f-26b9-44c3-a6d2-39c457f9c94b/public_url"><img src="https://user-images.githubusercontent.com/46621885/213876779-55ac03cd-77ee-46bf-be5f-72d42d6053e4.png" height="60" /></a>
+<a href="https://www.credly.com/badges/e2fa85a5-ae52-4c24-9427-ccb5730e14fc/public_url"><img src="https://github.com/user-attachments/assets/5ee75f11-62db-4724-ba6f-5d96c1be454e" height="80" /></a>
+<a href="https://www.credly.com/badges/4e32b35f-26b9-44c3-a6d2-39c457f9c94b/public_url"><img src="https://user-images.githubusercontent.com/46621885/213876779-55ac03cd-77ee-46bf-be5f-72d42d6053e4.png" height="80" /></a>
 
 ### Latest Blog Posts
 
