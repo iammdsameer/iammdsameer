@@ -19,7 +19,7 @@ Want to be nice?
 - 🛠 &nbsp; I’m currently working with Microservices, SaaS, TypeScript, <br /> Serverless Architecture, etc.
 - 🚀 &nbsp; I'm leading technological strategy and oversee all technology-related functions.
 - 💬 &nbsp; Ask me about anything [here](https://github.com/iammdsameer/iammdsameer/issues/)!
-- 📫 &nbsp; How to reach me: hi@mdsameer.com, sameer@asparksys.com.
+- 📫 &nbsp; How to reach me: hi@mdsameer.com.
 
 ### Achievements
 <a href="https://www.credly.com/badges/e2fa85a5-ae52-4c24-9427-ccb5730e14fc/public_url"><img src="https://github.com/user-attachments/assets/5ee75f11-62db-4724-ba6f-5d96c1be454e" height="80" /></a>
