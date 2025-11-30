@@ -12,7 +12,7 @@ Want to be nice?
 
 <a href="https://www.buymeacoffee.com/iammdsameer" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" height="60px" width="217px" ></a>
 
-<img align="right" height="250" width="375" alt="" src="https://cdn.asparksys.com/medias/1673113408840.jpeg" />
+<!-- <img align="right" height="250" width="375" alt="" src="https://cdn.asparksys.com/medias/1673113408840.jpeg" /> -->
 
 ### About
 
