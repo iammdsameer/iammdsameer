@@ -1,34 +1,79 @@
-## Hello World 👋, I'm [MD Sameer!](https://www.mdsameer.com/)
+<h1 align="center">Hi, I'm Sameer 👋</h1>
 
-[![Medium Badge](https://img.shields.io/badge/-Medium-000000?style=flat-square&logo=Medium&logoColor=white)](https://iammdsameer.medium.com/)
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://linkedin.com/in/iammdsameer)
-[![Website Badge](https://img.shields.io/badge/Website-3b5998?style=flat-square&logo=google-chrome&logoColor=white)](https://www.mdsameer.com/)
+<p align="center">
+  <em>Full Stack Engineer · AWS & Azure Certified · Based in Toronto, ON</em>
+</p>
 
-### Glad to see you here! &nbsp;
+<p align="center">
+  <a href="https://mdsameer.com" target="_blank"><img src="https://img.shields.io/badge/Portfolio-mdsameer.com-0A66C2?style=for-the-badge&logo=google-chrome&logoColor=white" /></a>
+  <a href="https://linkedin.com/in/iammdsameer" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-iammdsameer-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:hi@mdsameer.com"><img src="https://img.shields.io/badge/Email-hi@mdsameer.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://github.com/iammdsameer" target="_blank"><img src="https://img.shields.io/badge/GitHub-iammdsameer-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+</p>
 
-Hi! I am MD Sameer, Software Engineer of [Aspark Systems](https://asparksys.com). I am always strived to push the boundaries of technology and innovation. Working around a team of 30+ talented and passionate engineers, there is never a dull moment at work!
+---
 
-Want to be nice?
+## About Me
 
-<a href="https://www.buymeacoffee.com/iammdsameer" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" height="60px" width="217px" ></a>
+I'm a Full Stack Developer and DevOps Engineer with **5+ years of experience** building scalable applications and cloud-native solutions across diverse industries. I specialize in bridging development and operations — from shipping performant React/Next.js frontends to architecting AWS and Azure backends, automating CI/CD pipelines, and integrating AI/ML capabilities.
 
-<!-- <img align="right" height="250" width="375" alt="" src="https://cdn.asparksys.com/medias/1673113408840.jpeg" /> -->
+- 🎓 Postgraduate in **Cybersecurity & Threat Management** and **Cloud Architecture** — Seneca Polytechnic
+- 🏆 President's Honor List · Housing Hackathon Finalist · Best Final Year IT Project
+- 🌍 Previously mentored 40+ CS students to a **100% project pass rate**
+- 📬 Open to full-time opportunities in Toronto and remote roles
 
-### About
+---
 
-- 🛠 &nbsp; I’m currently working with Microservices, SaaS, TypeScript, <br /> Serverless Architecture, etc.
-- 🚀 &nbsp; I'm leading technological strategy and oversee all technology-related functions.
-- 💬 &nbsp; Ask me about anything [here](https://github.com/iammdsameer/iammdsameer/issues/)!
-- 📫 &nbsp; How to reach me: hi@mdsameer.com.
+## Tech Stack
 
-### Achievements
-<a href="https://www.credly.com/badges/e2fa85a5-ae52-4c24-9427-ccb5730e14fc/public_url"><img src="https://github.com/user-attachments/assets/5ee75f11-62db-4724-ba6f-5d96c1be454e" height="80" /></a>
-<a href="https://www.credly.com/badges/4e32b35f-26b9-44c3-a6d2-39c457f9c94b/public_url"><img src="https://user-images.githubusercontent.com/46621885/213876779-55ac03cd-77ee-46bf-be5f-72d42d6053e4.png" height="80" /></a>
+**Languages**
 
-### Latest Blog Posts
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
 
-- [The Most Common Mistakes Made by Programmers (And How to Avoid Them)](https://medium.com/@iammdsameer/the-most-common-mistakes-made-by-programmers-and-how-to-avoid-them-8a95eee83164)
-- [10 Visual Studio Code Extension You Must Try As A JavaScript Developer](https://medium.com/@iammdsameer/10-visual-studio-code-extension-you-must-try-as-a-javascript-developer-7d0c6b21bae)
-- [10 NPM packages you must try in 2023](https://medium.com/@iammdsameer/10-npm-packages-you-must-try-in-2023-fa79bfca3a39)
-- [Learn How Git Works: A Deeper Dive to Internal Working of Git](https://medium.com/@iammdsameer/learn-how-git-works-internally-396e8dcf66b5)
+**Frameworks & Libraries**
+
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+
+**Cloud & DevOps**
+
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![GCP](https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
+
+**Databases**
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![DynamoDB](https://img.shields.io/badge/DynamoDB-4053D6?style=for-the-badge&logo=amazondynamodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+
+---
+
+## Certifications & Awards
+
+<a href="https://www.credly.com/badges/YOUR-AWS-BADGE-ID" target="_blank">
+  <img src="https://images.credly.com/size/110x110/images/0e284c3f-5164-4b21-8660-0d84737941bc/image.png" alt="AWS Solutions Architect Associate" width="110" />
+</a>
+
+<a href="https://www.credly.com/badges/YOUR-AZ400-BADGE-ID" target="_blank">
+  <img src="https://learn.microsoft.com/en-us/media/learn/certification/badges/microsoft-certified-expert-badge.svg" alt="Microsoft DevOps Engineer Expert" width="110" />
+</a>
+
+
+
+---
 
